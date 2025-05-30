@@ -2,6 +2,8 @@
 
 Este programa en Python permite calcular el factorial de la cantidad de caracteres en una palabra o frase ingresada por el usuario. Además, indica si ese factorial es un número par o impar. El ciclo se repite mientras se ingrese un número entero distinto de 0.
 
+Realizado por Eros Benitez Dos Santos.
+
 ## 🧠 ¿Cómo funciona?
 
 1. Al iniciar, se solicita al usuario ingresar un número entero.
